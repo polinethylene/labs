@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/whitesnake/CLionProjects/lab_1/functions.c
+functions.h
+/Users/whitesnake/CLionProjects/lab_1/functions.h
+stdlib.h
+-
+string.h
+-
+
+/Users/whitesnake/CLionProjects/lab_1/functions.h
+stdlib.h
+-
+string.h
+-
+
+/Users/whitesnake/CLionProjects/lab_1/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+poly.h
+/Users/whitesnake/CLionProjects/lab_1/poly.h
+functions.h
+/Users/whitesnake/CLionProjects/lab_1/functions.h
+
+/Users/whitesnake/CLionProjects/lab_1/poly.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+

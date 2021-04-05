@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.N5Ecl1aLuq/Tests/test.cpp
+gtest/gtest.h
+/tmp/tmp.N5Ecl1aLuq/Tests/gtest/gtest.h
+../poly.h
+/tmp/tmp.N5Ecl1aLuq/poly.h
+../functions.h
+/tmp/tmp.N5Ecl1aLuq/functions.h
+
+/tmp/tmp.N5Ecl1aLuq/functions.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+
+/tmp/tmp.N5Ecl1aLuq/poly.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+
