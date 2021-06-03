@@ -1,0 +1,1 @@
+add_executable(Sequence sequencetest.cpp functions.cpp functions.h)
