@@ -1,4 +1,4 @@
-# Install script for directory: /Users/whitesnake/CLionProjects/lab_2/Tests
+# Install script for directory: /Users/whitesnake/Documents/GitHub/labs/lab_2/Tests
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,6 +34,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/cmake_install.cmake")
+  include("/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/cmake_install.cmake")
 endif()
 

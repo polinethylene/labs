@@ -63,10 +63,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/whitesnake/CLionProjects/lab_2
+CMAKE_SOURCE_DIR = /Users/whitesnake/Documents/GitHub/labs/lab_2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/depend.make
@@ -79,16 +79,16 @@ include Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/flags.make
 
 Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o: Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/flags.make
 Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o: ../Tests/googletest-master/googlemock/src/gmock_main.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock/src/gmock_main.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock/src/gmock_main.cc
 
 Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gmock_main.dir/src/gmock_main.cc.i"
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock/src/gmock_main.cc > CMakeFiles/gmock_main.dir/src/gmock_main.cc.i
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock/src/gmock_main.cc > CMakeFiles/gmock_main.dir/src/gmock_main.cc.i
 
 Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gmock_main.dir/src/gmock_main.cc.s"
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock/src/gmock_main.cc -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.s
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock/src/gmock_main.cc -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.s
 
 # Object files for target gmock_main
 gmock_main_OBJECTS = \
@@ -100,9 +100,9 @@ gmock_main_EXTERNAL_OBJECTS =
 lib/libgmock_maind.a: Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o
 lib/libgmock_maind.a: Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/build.make
 lib/libgmock_maind.a: Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library ../../../lib/libgmock_maind.a"
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock && $(CMAKE_COMMAND) -P CMakeFiles/gmock_main.dir/cmake_clean_target.cmake
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/gmock_main.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library ../../../lib/libgmock_maind.a"
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock && $(CMAKE_COMMAND) -P CMakeFiles/gmock_main.dir/cmake_clean_target.cmake
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/gmock_main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/build: lib/libgmock_maind.a
@@ -110,10 +110,10 @@ Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/build: lib/libgmock
 .PHONY : Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/build
 
 Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/clean:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock && $(CMAKE_COMMAND) -P CMakeFiles/gmock_main.dir/cmake_clean.cmake
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock && $(CMAKE_COMMAND) -P CMakeFiles/gmock_main.dir/cmake_clean.cmake
 .PHONY : Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/clean
 
 Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/depend:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/whitesnake/CLionProjects/lab_2 /Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/whitesnake/Documents/GitHub/labs/lab_2 /Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : Tests/googletest-master/googlemock/CMakeFiles/gmock_main.dir/depend
 

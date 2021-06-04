@@ -1,4 +1,4 @@
-# Install script for directory: /Users/whitesnake/CLionProjects/lab_2/Sequence
+# Install script for directory: /Users/whitesnake/Documents/GitHub/labs/lab_2/Sequence
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

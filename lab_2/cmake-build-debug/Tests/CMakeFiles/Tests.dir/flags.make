@@ -6,5 +6,5 @@ CXX_FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sd
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -isystem /Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/include -isystem /Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest 
+CXX_INCLUDES = -isystem /Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/include -isystem /Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest 
 

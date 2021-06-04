@@ -68,10 +68,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/whitesnake/CLionProjects/lab_2
+CMAKE_SOURCE_DIR = /Users/whitesnake/Documents/GitHub/labs/lab_2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -146,14 +146,14 @@ list_install_components/fast: list_install_components
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/CMakeFiles /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/CMakeFiles/progress.marks
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Tests/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/CMakeFiles 0
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/CMakeFiles /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/CMakeFiles/progress.marks
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Tests/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Tests/clean
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Tests/clean
 .PHONY : clean
 
 # The main clean target
@@ -163,22 +163,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Tests/preinstall
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Tests/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Tests/preinstall
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Tests/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 Tests/CMakeFiles/Tests.dir/rule:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Tests/CMakeFiles/Tests.dir/rule
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Tests/CMakeFiles/Tests.dir/rule
 .PHONY : Tests/CMakeFiles/Tests.dir/rule
 
 # Convenience name for target.
@@ -188,7 +188,7 @@ Tests: Tests/CMakeFiles/Tests.dir/rule
 
 # fast build rule for target.
 Tests/fast:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Tests/CMakeFiles/Tests.dir/build.make Tests/CMakeFiles/Tests.dir/build
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Tests/CMakeFiles/Tests.dir/build.make Tests/CMakeFiles/Tests.dir/build
 .PHONY : Tests/fast
 
 tests.o: tests.cpp.o
@@ -197,7 +197,7 @@ tests.o: tests.cpp.o
 
 # target to build an object file
 tests.cpp.o:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Tests/CMakeFiles/Tests.dir/build.make Tests/CMakeFiles/Tests.dir/tests.cpp.o
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Tests/CMakeFiles/Tests.dir/build.make Tests/CMakeFiles/Tests.dir/tests.cpp.o
 .PHONY : tests.cpp.o
 
 tests.i: tests.cpp.i
@@ -206,7 +206,7 @@ tests.i: tests.cpp.i
 
 # target to preprocess a source file
 tests.cpp.i:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Tests/CMakeFiles/Tests.dir/build.make Tests/CMakeFiles/Tests.dir/tests.cpp.i
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Tests/CMakeFiles/Tests.dir/build.make Tests/CMakeFiles/Tests.dir/tests.cpp.i
 .PHONY : tests.cpp.i
 
 tests.s: tests.cpp.s
@@ -215,7 +215,7 @@ tests.s: tests.cpp.s
 
 # target to generate assembly for a file
 tests.cpp.s:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Tests/CMakeFiles/Tests.dir/build.make Tests/CMakeFiles/Tests.dir/tests.cpp.s
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Tests/CMakeFiles/Tests.dir/build.make Tests/CMakeFiles/Tests.dir/tests.cpp.s
 .PHONY : tests.cpp.s
 
 # Help Target
@@ -245,6 +245,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

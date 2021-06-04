@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/whitesnake/CLionProjects/lab_2/Sequence/functions.cpp" "/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence/CMakeFiles/Sequence.dir/functions.cpp.o"
-  "/Users/whitesnake/CLionProjects/lab_2/Sequence/sequencetest.cpp" "/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence/CMakeFiles/Sequence.dir/sequencetest.cpp.o"
+  "/Users/whitesnake/Documents/GitHub/labs/lab_2/Sequence/functions.cpp" "/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence/CMakeFiles/Sequence.dir/functions.cpp.o"
+  "/Users/whitesnake/Documents/GitHub/labs/lab_2/Sequence/sequencetest.cpp" "/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence/CMakeFiles/Sequence.dir/sequencetest.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

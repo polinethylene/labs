@@ -8,78 +8,78 @@
 		<Option virtualFolders="CMake Files\;CMake Files\Tests\;CMake Files\Tests\googletest-master\;CMake Files\Tests\googletest-master\googlemock\;CMake Files\Tests\googletest-master\googlemock\cmake\;CMake Files\Tests\googletest-master\googletest\;CMake Files\Tests\googletest-master\googletest\cmake\;CMake Files\Sequence\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="install/local">
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="install/strip">
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="install">
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="list_install_components">
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="lab_2">
-				<Option output="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/lab_2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug"/>
+				<Option output="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/lab_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -92,15 +92,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab_2"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab_2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="lab_2/fast">
-				<Option output="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/lab_2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug"/>
+				<Option output="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/lab_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -113,21 +113,21 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab_2/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab_2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Tests">
-				<Option output="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/Tests" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests"/>
+				<Option output="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/Tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/include"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/include"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
@@ -136,21 +136,21 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 Tests"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 Tests"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Tests/fast">
-				<Option output="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/Tests" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests"/>
+				<Option output="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/Tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/include"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/include"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
@@ -159,23 +159,23 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 Tests/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 Tests/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock">
-				<Option output="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/lib/libgmockd.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock"/>
+				<Option output="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/lib/libgmockd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock/include"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/include"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock/include"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/include"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
@@ -184,23 +184,23 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock/fast">
-				<Option output="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/lib/libgmockd.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock"/>
+				<Option output="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/lib/libgmockd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock/include"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/include"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock/include"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/include"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
@@ -209,23 +209,23 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock_main">
-				<Option output="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/lib/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock"/>
+				<Option output="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/lib/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock/include"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/include"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock/include"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/include"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
@@ -234,23 +234,23 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock_main"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock_main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock_main/fast">
-				<Option output="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/lib/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock"/>
+				<Option output="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/lib/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock/include"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/include"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock/include"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/include"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
@@ -259,21 +259,21 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock_main/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock_main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest_main">
-				<Option output="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest"/>
+				<Option output="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/include"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/include"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
@@ -282,21 +282,21 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 gtest_main"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest_main/fast">
-				<Option output="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest"/>
+				<Option output="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/include"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/include"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
@@ -305,21 +305,21 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest">
-				<Option output="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest"/>
+				<Option output="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/include"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/include"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
@@ -328,21 +328,21 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 gtest"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest/fast">
-				<Option output="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest"/>
+				<Option output="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/include"/>
-					<Add directory="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/include"/>
+					<Add directory="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
@@ -351,15 +351,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Tests/googletest-master/googletest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Sequence">
-				<Option output="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence/Sequence" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence"/>
+				<Option output="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence/Sequence" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -372,15 +372,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 Sequence"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 Sequence"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Sequence/fast">
-				<Option output="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence/Sequence" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence"/>
+				<Option output="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence/Sequence" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -393,95 +393,95 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 Sequence/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 Sequence/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/ArraySeq.h">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/ArraySeq.h">
 			<Option target="lab_2"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Complex.h">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Complex.h">
 			<Option target="lab_2"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/DynArray.h">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/DynArray.h">
 			<Option target="lab_2"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/LinkList.h">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/LinkList.h">
 			<Option target="lab_2"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/LinkedListSeq.h">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/LinkedListSeq.h">
 			<Option target="lab_2"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Matrix.h">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Matrix.h">
 			<Option target="lab_2"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Sequence.h">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Sequence.h">
 			<Option target="lab_2"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Sequence/functions.cpp">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Sequence/functions.cpp">
 			<Option target="Sequence"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Sequence/functions.h">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Sequence/functions.h">
 			<Option target="Sequence"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Sequence/sequencetest.cpp">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Sequence/sequencetest.cpp">
 			<Option target="Sequence"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock/src/gmock-all.cc">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock/src/gmock-all.cc">
 			<Option target="gmock"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock/src/gmock_main.cc">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock/src/gmock_main.cc">
 			<Option target="gmock_main"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/src/gtest-all.cc">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/src/gtest-all.cc">
 			<Option target="gtest"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/src/gtest_main.cc">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/src/gtest_main.cc">
 			<Option target="gtest_main"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Tests/tests.cpp">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/tests.cpp">
 			<Option target="Tests"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/main.cpp">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/main.cpp">
 			<Option target="lab_2"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/CMakeLists.txt">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Tests/CMakeLists.txt">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Tests\"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/CMakeLists.txt">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Tests\googletest-master\"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock/CMakeLists.txt">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Tests\googletest-master\googlemock\"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock/cmake/gmock.pc.in">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock/cmake/gmock.pc.in">
 			<Option virtualFolder="CMake Files\Tests\googletest-master\googlemock\cmake\"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googlemock/cmake/gmock_main.pc.in">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googlemock/cmake/gmock_main.pc.in">
 			<Option virtualFolder="CMake Files\Tests\googletest-master\googlemock\cmake\"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/CMakeLists.txt">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Tests\googletest-master\googletest\"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/cmake/Config.cmake.in">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/cmake/Config.cmake.in">
 			<Option virtualFolder="CMake Files\Tests\googletest-master\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/cmake/gtest.pc.in">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/cmake/gtest.pc.in">
 			<Option virtualFolder="CMake Files\Tests\googletest-master\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/cmake/gtest_main.pc.in">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/cmake/gtest_main.pc.in">
 			<Option virtualFolder="CMake Files\Tests\googletest-master\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Tests/googletest-master/googletest/cmake/internal_utils.cmake">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Tests/googletest-master/googletest/cmake/internal_utils.cmake">
 			<Option virtualFolder="CMake Files\Tests\googletest-master\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="/Users/whitesnake/CLionProjects/lab_2/Sequence/CMakeLists.txt">
+		<Unit filename="/Users/whitesnake/Documents/GitHub/labs/lab_2/Sequence/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Sequence\"/>
 		</Unit>
 	</Project>

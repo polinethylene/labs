@@ -68,10 +68,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/whitesnake/CLionProjects/lab_2
+CMAKE_SOURCE_DIR = /Users/whitesnake/Documents/GitHub/labs/lab_2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -146,14 +146,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/CMakeFiles /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence/CMakeFiles/progress.marks
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Sequence/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/CMakeFiles 0
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/CMakeFiles /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence/CMakeFiles/progress.marks
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Sequence/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Sequence/clean
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Sequence/clean
 .PHONY : clean
 
 # The main clean target
@@ -163,22 +163,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Sequence/preinstall
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Sequence/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Sequence/preinstall
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Sequence/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 Sequence/CMakeFiles/Sequence.dir/rule:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Sequence/CMakeFiles/Sequence.dir/rule
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Sequence/CMakeFiles/Sequence.dir/rule
 .PHONY : Sequence/CMakeFiles/Sequence.dir/rule
 
 # Convenience name for target.
@@ -188,7 +188,7 @@ Sequence: Sequence/CMakeFiles/Sequence.dir/rule
 
 # fast build rule for target.
 Sequence/fast:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Sequence/CMakeFiles/Sequence.dir/build.make Sequence/CMakeFiles/Sequence.dir/build
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Sequence/CMakeFiles/Sequence.dir/build.make Sequence/CMakeFiles/Sequence.dir/build
 .PHONY : Sequence/fast
 
 functions.o: functions.cpp.o
@@ -197,7 +197,7 @@ functions.o: functions.cpp.o
 
 # target to build an object file
 functions.cpp.o:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Sequence/CMakeFiles/Sequence.dir/build.make Sequence/CMakeFiles/Sequence.dir/functions.cpp.o
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Sequence/CMakeFiles/Sequence.dir/build.make Sequence/CMakeFiles/Sequence.dir/functions.cpp.o
 .PHONY : functions.cpp.o
 
 functions.i: functions.cpp.i
@@ -206,7 +206,7 @@ functions.i: functions.cpp.i
 
 # target to preprocess a source file
 functions.cpp.i:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Sequence/CMakeFiles/Sequence.dir/build.make Sequence/CMakeFiles/Sequence.dir/functions.cpp.i
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Sequence/CMakeFiles/Sequence.dir/build.make Sequence/CMakeFiles/Sequence.dir/functions.cpp.i
 .PHONY : functions.cpp.i
 
 functions.s: functions.cpp.s
@@ -215,7 +215,7 @@ functions.s: functions.cpp.s
 
 # target to generate assembly for a file
 functions.cpp.s:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Sequence/CMakeFiles/Sequence.dir/build.make Sequence/CMakeFiles/Sequence.dir/functions.cpp.s
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Sequence/CMakeFiles/Sequence.dir/build.make Sequence/CMakeFiles/Sequence.dir/functions.cpp.s
 .PHONY : functions.cpp.s
 
 sequencetest.o: sequencetest.cpp.o
@@ -224,7 +224,7 @@ sequencetest.o: sequencetest.cpp.o
 
 # target to build an object file
 sequencetest.cpp.o:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Sequence/CMakeFiles/Sequence.dir/build.make Sequence/CMakeFiles/Sequence.dir/sequencetest.cpp.o
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Sequence/CMakeFiles/Sequence.dir/build.make Sequence/CMakeFiles/Sequence.dir/sequencetest.cpp.o
 .PHONY : sequencetest.cpp.o
 
 sequencetest.i: sequencetest.cpp.i
@@ -233,7 +233,7 @@ sequencetest.i: sequencetest.cpp.i
 
 # target to preprocess a source file
 sequencetest.cpp.i:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Sequence/CMakeFiles/Sequence.dir/build.make Sequence/CMakeFiles/Sequence.dir/sequencetest.cpp.i
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Sequence/CMakeFiles/Sequence.dir/build.make Sequence/CMakeFiles/Sequence.dir/sequencetest.cpp.i
 .PHONY : sequencetest.cpp.i
 
 sequencetest.s: sequencetest.cpp.s
@@ -242,7 +242,7 @@ sequencetest.s: sequencetest.cpp.s
 
 # target to generate assembly for a file
 sequencetest.cpp.s:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Sequence/CMakeFiles/Sequence.dir/build.make Sequence/CMakeFiles/Sequence.dir/sequencetest.cpp.s
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(MAKE) $(MAKESILENT) -f Sequence/CMakeFiles/Sequence.dir/build.make Sequence/CMakeFiles/Sequence.dir/sequencetest.cpp.s
 .PHONY : sequencetest.cpp.s
 
 # Help Target
@@ -275,6 +275,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

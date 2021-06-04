@@ -63,10 +63,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/whitesnake/CLionProjects/lab_2
+CMAKE_SOURCE_DIR = /Users/whitesnake/Documents/GitHub/labs/lab_2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include Sequence/CMakeFiles/Sequence.dir/depend.make
@@ -79,29 +79,29 @@ include Sequence/CMakeFiles/Sequence.dir/flags.make
 
 Sequence/CMakeFiles/Sequence.dir/sequencetest.cpp.o: Sequence/CMakeFiles/Sequence.dir/flags.make
 Sequence/CMakeFiles/Sequence.dir/sequencetest.cpp.o: ../Sequence/sequencetest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Sequence/CMakeFiles/Sequence.dir/sequencetest.cpp.o"
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Sequence.dir/sequencetest.cpp.o -c /Users/whitesnake/CLionProjects/lab_2/Sequence/sequencetest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Sequence/CMakeFiles/Sequence.dir/sequencetest.cpp.o"
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Sequence.dir/sequencetest.cpp.o -c /Users/whitesnake/Documents/GitHub/labs/lab_2/Sequence/sequencetest.cpp
 
 Sequence/CMakeFiles/Sequence.dir/sequencetest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Sequence.dir/sequencetest.cpp.i"
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/whitesnake/CLionProjects/lab_2/Sequence/sequencetest.cpp > CMakeFiles/Sequence.dir/sequencetest.cpp.i
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/whitesnake/Documents/GitHub/labs/lab_2/Sequence/sequencetest.cpp > CMakeFiles/Sequence.dir/sequencetest.cpp.i
 
 Sequence/CMakeFiles/Sequence.dir/sequencetest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Sequence.dir/sequencetest.cpp.s"
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/whitesnake/CLionProjects/lab_2/Sequence/sequencetest.cpp -o CMakeFiles/Sequence.dir/sequencetest.cpp.s
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/whitesnake/Documents/GitHub/labs/lab_2/Sequence/sequencetest.cpp -o CMakeFiles/Sequence.dir/sequencetest.cpp.s
 
 Sequence/CMakeFiles/Sequence.dir/functions.cpp.o: Sequence/CMakeFiles/Sequence.dir/flags.make
 Sequence/CMakeFiles/Sequence.dir/functions.cpp.o: ../Sequence/functions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object Sequence/CMakeFiles/Sequence.dir/functions.cpp.o"
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Sequence.dir/functions.cpp.o -c /Users/whitesnake/CLionProjects/lab_2/Sequence/functions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object Sequence/CMakeFiles/Sequence.dir/functions.cpp.o"
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Sequence.dir/functions.cpp.o -c /Users/whitesnake/Documents/GitHub/labs/lab_2/Sequence/functions.cpp
 
 Sequence/CMakeFiles/Sequence.dir/functions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Sequence.dir/functions.cpp.i"
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/whitesnake/CLionProjects/lab_2/Sequence/functions.cpp > CMakeFiles/Sequence.dir/functions.cpp.i
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/whitesnake/Documents/GitHub/labs/lab_2/Sequence/functions.cpp > CMakeFiles/Sequence.dir/functions.cpp.i
 
 Sequence/CMakeFiles/Sequence.dir/functions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Sequence.dir/functions.cpp.s"
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/whitesnake/CLionProjects/lab_2/Sequence/functions.cpp -o CMakeFiles/Sequence.dir/functions.cpp.s
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/whitesnake/Documents/GitHub/labs/lab_2/Sequence/functions.cpp -o CMakeFiles/Sequence.dir/functions.cpp.s
 
 # Object files for target Sequence
 Sequence_OBJECTS = \
@@ -115,8 +115,8 @@ Sequence/Sequence: Sequence/CMakeFiles/Sequence.dir/sequencetest.cpp.o
 Sequence/Sequence: Sequence/CMakeFiles/Sequence.dir/functions.cpp.o
 Sequence/Sequence: Sequence/CMakeFiles/Sequence.dir/build.make
 Sequence/Sequence: Sequence/CMakeFiles/Sequence.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Sequence"
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Sequence.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Sequence"
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Sequence.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 Sequence/CMakeFiles/Sequence.dir/build: Sequence/Sequence
@@ -124,10 +124,10 @@ Sequence/CMakeFiles/Sequence.dir/build: Sequence/Sequence
 .PHONY : Sequence/CMakeFiles/Sequence.dir/build
 
 Sequence/CMakeFiles/Sequence.dir/clean:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence && $(CMAKE_COMMAND) -P CMakeFiles/Sequence.dir/cmake_clean.cmake
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence && $(CMAKE_COMMAND) -P CMakeFiles/Sequence.dir/cmake_clean.cmake
 .PHONY : Sequence/CMakeFiles/Sequence.dir/clean
 
 Sequence/CMakeFiles/Sequence.dir/depend:
-	cd /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/whitesnake/CLionProjects/lab_2 /Users/whitesnake/CLionProjects/lab_2/Sequence /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence /Users/whitesnake/CLionProjects/lab_2/cmake-build-debug/Sequence/CMakeFiles/Sequence.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/whitesnake/Documents/GitHub/labs/lab_2 /Users/whitesnake/Documents/GitHub/labs/lab_2/Sequence /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence /Users/whitesnake/Documents/GitHub/labs/lab_2/cmake-build-debug/Sequence/CMakeFiles/Sequence.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : Sequence/CMakeFiles/Sequence.dir/depend
 
